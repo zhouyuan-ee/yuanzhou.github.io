@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## 👋 Hello, I'm Yuan Zhou
 
-### More Information
+I am a researcher and engineer focusing on:
 
-A place to include any other types of information that you'd like to include about yourself.
+- **Machine Learning**
+- **Graph Neural Networks**
+- **Graph Anomaly Detection**
 
-### Contact me
+I am passionate about building intelligent systems that learn from complex structured data.
 
-[email@domain.com](mailto:email@domain.com)
+---
+
+📧 **Email**: [y-zhou24@mails.tsinghua.edu.cn](mailto:y-zhou24@mails.tsinghua.edu.cn)
